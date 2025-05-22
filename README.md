@@ -1,2 +1,2 @@
 # PI
-Ejercicios resueltos y no tan resueltos de la materia Programación Imperativa - UNNOBA
+Todos los commits y sugerencias son bienvenidos a este repositorio!
